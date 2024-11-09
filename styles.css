@@ -1,3 +1,7 @@
+body {
+    width: 100%;
+}
+
 .middle-header{
     text-align: center;
     width: 800px;
@@ -6,6 +10,7 @@
 p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: medium;
+    line-height: 2em;
 }
 
 h2{
